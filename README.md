@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Alba.
 
-Soy un estudiante apasionado de **Desarrollo Web**, actualmente cursando un **Grado Superior en Desarrollo de Aplicaciones Web**. Tengo conocimientos tanto en **Frontend** como en **Backend**, y recientemente he completado un curso intensivo en **Ciberseguridad**.
+Soy una estudiante con mucho interés en el **Desarrollo Web**, actualmente cursando un **Grado Superior en Desarrollo de Aplicaciones Web**. Tengo conocimientos tanto en **Frontend** como en **Backend**, y recientemente he completado un curso intensivo en **Ciberseguridad**.
 
 ---
 
